@@ -1,2 +1,6 @@
 # Default ignored files
 /workspace.xml
+/$PRODUCT_WORKSPACE_FILE$
+/cloud-cf-helloworld-nodejs.iml
+/modules.xml
+/vcs.xml
