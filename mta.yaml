@@ -1,0 +1,9 @@
+_schema-version: 2.1.0
+ID: com.sap.piper.node.hello.world.7ui
+version: 1.0.0
+description: A Hello World sample with 7_UI
+provider: SAP Sample generator
+modules:
+  - name: piper.node.hello.world.7ui
+    type: nodejs
+    path: .
