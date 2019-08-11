@@ -5,6 +5,7 @@ steps:
   cloudFoundryDeploy:
     deployTool: 'mtaDeployPlugin'
     deployType: 'standard'
+    mtaPath: 'com.sap.piper.node.hello.world.7ui.mtar'
     cloudFoundry:
       apiEndpoint: 'https://api.cf.us10.hana.ondemand.com'
       org: 'P2001579154trial_trial'
